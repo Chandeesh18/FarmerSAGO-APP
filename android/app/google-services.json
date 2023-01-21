@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569862400185",
+    "project_id": "farmerssago",
+    "storage_bucket": "farmerssago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569862400185:android:7ccb9e601cfe8f18ba5368",
+        "android_client_info": {
+          "package_name": "com.example.farmers_sago"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569862400185-7h2p7rqab8732gp5jbhdagnm6ma70b3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoYVYlK4K208ciHl0mEib3jpwbryTPLzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569862400185-7h2p7rqab8732gp5jbhdagnm6ma70b3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
